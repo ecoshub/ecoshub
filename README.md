@@ -1,6 +1,6 @@
 ### Welcome!
 
-I am a Software engineer who passionate about **computer science** / **processor architect** / **computer network**
+I am a Software engineer who passionate about **computer science** / **processor architecture** / **computer network**
 
 Currently working with **Go Programming Language**
 
