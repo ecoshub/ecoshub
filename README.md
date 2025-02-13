@@ -5,7 +5,7 @@ I am a Software engineer who passionate about **computer science** / **computer 
 Currently working with **Go Programming Language**
 
 ### ⚙️ &nbsp;GitHub Analytics
-![My github stats](https://github-readme-stats.vercel.app/api?username=ecoshub&count_private=false&theme=dracula&show_icons=true&include_all_commits=false)&nbsp; 
+![My github stats](https://github-readme-stats.vercel.app/api?username=ecoshub&count_private=false&theme=dracula&show_icons=true&include_all_commits=false&hide=contribs&hide_rank=true)&nbsp; 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecoshub&layout=donut-vertical&theme=dracula&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=fortran,haskell,pascal,ruby,antlr,javascript,scss,css,html,python,shell)](https://github.com/ecoshub/github-readme-stats)
 
